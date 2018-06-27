@@ -1,0 +1,4 @@
+
+transcript = "this is my transcript"
+
+print(transcript)
